@@ -1,0 +1,29 @@
+html, body #root {
+  height: 100%;
+  width: 100%;
+  background-color: #151515;
+}
+
+#main-heading {
+  color: white;
+}
+
+#img-container {
+  color: white;
+}
+
+#main-container {
+  margin-left: 5%;
+}
+
+#img-tag {
+  border-radius: 20px;
+}
+
+#shimmer-placeholder {
+	display: block;
+	height: 75vh;
+	width: 70vw;
+	background: linear-gradient(rgb(53, 53, 53), grey);
+	border-radius: 20px;
+}
