@@ -1,0 +1,37 @@
+#header-container {
+  background-color: rgb(128, 76, 250);
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+#nav-header {
+	margin-left: 20px;
+	color: white;
+}
+
+#nav-items {
+	margin-right: 400px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+#nav-item {
+	margin-right: 20px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+
+#home-container {
+  display: block;
+  height: 90vh;
+  width: 100vw;
+  background-color: rgb(67, 67, 67);
+  margin: 0;
+}
+
+#app-layout {
+	margin: 0px;
+}
